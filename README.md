@@ -7,7 +7,7 @@ This project builds an explainable, data‑driven anomaly detection system to id
 Detect unusual demographic distributions and enrolment volumes in Aadhaar data that may indicate data quality issues, operational inefficiencies, or potential misuse—while keeping the solution transparent and policy‑ready.
 
 # Dataset
-ource: UIDAI Aadhaar Enrolment & Update Demographic Datasets (CSV)
+source: UIDAI Aadhaar Enrolment & Update Demographic Datasets (CSV)
 
 Key Columns Used
 
